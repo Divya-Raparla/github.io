@@ -9,10 +9,3 @@
     background-color: #d0c6c6;
     color: white;
   }
-
-  table, th, td {
-    border: 1px solid;
-    width: 100%;
-    border-collapse: collapse;
-    border: 1px solid;
-  }
