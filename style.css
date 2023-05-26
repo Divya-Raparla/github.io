@@ -1,8 +1,4 @@
- tr:nth-child(even){background-color: #0b0000;}
-
- tr:hover {background-color: #0b0000;}
-
- th {
+ tr, th, table {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
