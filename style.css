@@ -1,11 +1,12 @@
- tr, th {
+ tr, th ,table{
     padding-top: 12px;
     padding-bottom: 12px;
+    border: 1px solid;
     text-align: left;
     background-color: #d0c6c6;
     color: white;
   }
   table {
     width: 100%;
-    border: 1px solid;
+    border-collapse: collapse;
   }
